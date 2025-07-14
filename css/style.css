@@ -119,15 +119,16 @@ h5 {
 
 .product-section {
     display: none;
-    /* Hide all by default */
     margin-top: 20px;
 }
 
 .product-section.active {
     display: block;
-    /* Show active section */
 }
 
 .section-btn {
     margin: 5px;
+}
+.text-bold{
+ font-weight: bold;
 }
