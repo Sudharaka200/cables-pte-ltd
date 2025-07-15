@@ -5,3 +5,5 @@ function showSection(sectionNumber) {
 
     document.getElementById(`section${sectionNumber}`).classList.add('active');
 }
+
+
